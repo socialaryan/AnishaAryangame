@@ -18,7 +18,7 @@ image2.setAttribute("src",rrims2);
 
 
 if(rrims > rrims2){
-document.querySelector("h1").innerHTML= "Anisha win";
+document.querySelector("h1").innerHTML= "Princy win";
 }
 
 else if(rrims < rrims2) {
